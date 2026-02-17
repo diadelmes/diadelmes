@@ -93,15 +93,15 @@ const burak: Developer = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=diadelmes&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=diadelmes&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&cache_seconds=86400"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diadelmes&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diadelmes&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&cache_seconds=86400"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=diadelmes&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=diadelmes&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" alt="GitHub Streak"/>
 
 </div>
 
@@ -111,7 +111,7 @@ const burak: Developer = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=diadelmes&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=diadelmes&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub Trophies"/>
 
 </div>
 
@@ -159,19 +159,39 @@ const burak: Developer = {
 
 <div align="center">
 
-[![diadelmes](https://github-readme-stats.vercel.app/api/pin/?username=diadelmes&repo=diadelmes&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e)](https://github.com/diadelmes/diadelmes)
-&nbsp;
-[![dia_template](https://github-readme-stats.vercel.app/api/pin/?username=diadelmes&repo=dia_template&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e)](https://github.com/diadelmes/dia_template)
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/diadelmes/diadelmes">
+        <img src="https://img.shields.io/badge/📁%20diadelmes-GitHub%20Profile%20Repo-58a6ff?style=for-the-badge&labelColor=0d1117" />
+      </a>
+      <br/><br/>
+      <img src="https://img.shields.io/github/stars/diadelmes/diadelmes?style=flat-square&color=58a6ff&labelColor=0d1117" />
+      &nbsp;
+      <img src="https://img.shields.io/github/forks/diadelmes/diadelmes?style=flat-square&color=8b949e&labelColor=0d1117" />
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/diadelmes/dia_template">
+        <img src="https://img.shields.io/badge/📁%20dia__template-Next.js%20Ready%20Template-58a6ff?style=for-the-badge&labelColor=0d1117" />
+      </a>
+      <br/><br/>
+      <img src="https://img.shields.io/github/stars/diadelmes/dia_template?style=flat-square&color=58a6ff&labelColor=0d1117" />
+      &nbsp;
+      <img src="https://img.shields.io/github/forks/diadelmes/dia_template?style=flat-square&color=8b949e&labelColor=0d1117" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
-## 💡 Random Dev Quote
+## 💡 Dev Quote
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote"/>
+> *"First, solve the problem. Then, write the code."*
+> — John Johnson
 
 </div>
 
