@@ -111,7 +111,10 @@ const burak: Developer = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=diadelmes&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub Trophies"/>
+![Commits](https://img.shields.io/badge/Total%20Commits-4-58a6ff?style=for-the-badge&logo=github&labelColor=0d1117)
+![Repos](https://img.shields.io/badge/Public%20Repos-2-58a6ff?style=for-the-badge&logo=github&labelColor=0d1117)
+![Streak](https://img.shields.io/badge/Longest%20Streak-1%20Day-ff6b6b?style=for-the-badge&logo=fire&labelColor=0d1117)
+![Since](https://img.shields.io/badge/Coding%20Since-Jul%202022-8b949e?style=for-the-badge&logo=calendar&labelColor=0d1117)
 
 </div>
 
