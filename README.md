@@ -1,20 +1,36 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:050d1a,30:0a1628,60:0d2137,100:050d1a&height=220&section=header&text=Burak%20G%C3%BCnay&fontSize=58&fontColor=4fc3f7&animation=blinking&fontAlignY=45&desc=%3C%20Full%20Stack%20Dev%20%7C%20Security%20Researcher%20%2F%3E&descAlignY=68&descColor=5eead4&descSize=18"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=4FC3F7&center=true&vCenter=true&width=640&lines=_%20Full+Stack+Web+Developer+%F0%9F%9A%80;_%20Web+Security+%26+Pentest+Researcher+%F0%9F%94%90;_%20React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;_%20I+break+things+to+understand+them+%F0%9F%94%93;_%20Turkey+%F0%9F%87%B9%F0%9F%87%B7+%7C+diadelmes.com" alt="Typing SVG" />
-</a>
+<svg width="860" height="200" viewBox="0 0 860 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#050d1a"/>
+      <stop offset="50%" style="stop-color:#0a1628"/>
+      <stop offset="100%" style="stop-color:#050d1a"/>
+    </linearGradient>
+  </defs>
+  <rect width="860" height="200" fill="url(#bg)"/>
+  <text x="430" y="88" font-family="monospace" font-size="44" font-weight="bold" fill="#4fc3f7" text-anchor="middle" letter-spacing="2">Burak Gunay</text>
+  <text x="430" y="124" font-family="monospace" font-size="15" fill="#5eead4" text-anchor="middle">&lt; Full Stack Developer | Web Security Researcher /&gt;</text>
+  <text x="430" y="158" font-family="monospace" font-size="11" fill="#1a3a5c" text-anchor="middle">react . next.js . node.js . typescript . burp suite . kali linux</text>
+  <line x1="160" y1="108" x2="270" y2="108" stroke="#1a3a5c" stroke-width="0.8"/>
+  <line x1="590" y1="108" x2="700" y2="108" stroke="#1a3a5c" stroke-width="0.8"/>
+</svg>
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=diadelmes&style=flat-square&color=0d2137&label=profile+views&labelColor=050d1a)](https://github.com/diadelmes)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1200&color=4FC3F7&center=true&vCenter=true&width=600&height=40&lines=_%20Full+Stack+Web+Developer+%F0%9F%9A%80;_%20Web+Security+%26+Pentest+Researcher+%F0%9F%94%90;_%20React+%7C+Next.js+%7C+TypeScript+%7C+Node.js;_%20Breaking+things+to+build+them+better+%F0%9F%94%93;_%20Turkey+%F0%9F%87%B9%F0%9F%87%B7+%7C+diadelmes.com)](https://git.io/typing-svg)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=diadelmes&style=flat-square&color=0d2137&label=profile+views&labelColor=050d1a)
 &nbsp;
-[![Twitter](https://img.shields.io/badge/@burakgny0-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/burakgny0)
+[![Twitter](https://img.shields.io/badge/@burakgny0-1a1a2e?style=flat-square&logo=twitter&logoColor=1DA1F2)](https://twitter.com/burakgny0)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/burakgny0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a2e?style=flat-square&logo=linkedin&logoColor=0077B5)](https://linkedin.com/in/burakgny0)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/diadelmes.com-4fc3f7?style=flat-square&logo=firefox&logoColor=050d1a)](https://diadelmes.com)
+[![Portfolio](https://img.shields.io/badge/diadelmes.com-1a1a2e?style=flat-square&logo=firefox&logoColor=4fc3f7)](https://diadelmes.com)
+&nbsp;
+[![Email](https://img.shields.io/badge/email-1a1a2e?style=flat-square&logo=gmail&logoColor=D14836)](mailto:info@diadelmes.com)
 
 </div>
 
@@ -48,7 +64,7 @@ const burak: Developer = {
 
 ## 🛠 Tech Stack
 
-> **Frontend**
+**Frontend**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -59,7 +75,7 @@ const burak: Developer = {
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
 
-> **Backend & Database**
+**Backend & Database**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
@@ -69,12 +85,13 @@ const burak: Developer = {
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-> **DevOps, Tools & Security**
+**DevOps, Tools & Security**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
@@ -86,16 +103,16 @@ const burak: Developer = {
 
 <div align="center">
 
-| Skill | Progress | Level |
-|---|---|---|
-| **JavaScript / TypeScript** | `████████████████████` | 95% — Advanced |
-| **React / Next.js** | `███████████████████░` | 90% — Advanced |
-| **TailwindCSS / CSS** | `████████████████████` | 95% — Advanced |
-| **Node.js / Express** | `██████████████████░░` | 85% — Advanced |
-| **PostgreSQL / MySQL** | `████████████████░░░░` | 75% — Intermediate |
-| **Docker / DevOps** | `██████████████░░░░░░` | 68% — Intermediate |
-| **Web Security / Pentest** | `█████████████░░░░░░░` | 65% — Intermediate |
-| **PHP** | `████████████░░░░░░░░` | 60% — Intermediate |
+| Skill | Level |
+|---|---|
+| JavaScript / TypeScript | `████████████████████` 95% |
+| React / Next.js | `███████████████████░` 90% |
+| TailwindCSS / CSS | `████████████████████` 95% |
+| Node.js / Express | `██████████████████░░` 85% |
+| PostgreSQL / MySQL | `████████████████░░░░` 75% |
+| Docker / DevOps | `██████████████░░░░░░` 68% |
+| Web Security / Pentest | `█████████████░░░░░░░` 65% |
+| PHP | `████████████░░░░░░░░` 60% |
 
 </div>
 
@@ -105,13 +122,13 @@ const burak: Developer = {
 
 <div align="center">
 
-| Area | Tools & Tech |
+| Area | Tools |
 |---|---|
-| 🕵️ **Penetration Testing** | Burp Suite · OWASP ZAP · Nmap · Metasploit |
-| 🌐 **Web Vulnerabilities** | XSS · SQLi · CSRF · SSRF · IDOR · Path Traversal |
-| 🔍 **Recon & OSINT** | Subfinder · Amass · Shodan · theHarvester |
-| 🛡️ **Defense & Hardening** | HTTPS · CSP · Secure Headers · Rate Limiting |
-| 🐧 **Offensive OS** | Kali Linux · Parrot OS |
+| 🕵️ Penetration Testing | Burp Suite · OWASP ZAP · Nmap · Metasploit |
+| 🌐 Web Vulnerabilities | XSS · SQLi · CSRF · SSRF · IDOR · Path Traversal |
+| 🔍 Recon & OSINT | Subfinder · Amass · Shodan · theHarvester |
+| 🛡️ Defense & Hardening | HTTPS · CSP · Secure Headers · Rate Limiting |
+| 🐧 Offensive OS | Kali Linux · Parrot OS |
 
 </div>
 
@@ -174,7 +191,7 @@ const burak: Developer = {
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐%20diadelmes.com-050d1a?style=for-the-badge)](https://diadelmes.com)
+[![Portfolio](https://img.shields.io/badge/🌐_diadelmes.com-050d1a?style=for-the-badge)](https://diadelmes.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/burakgny0)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/burakgny0)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/burakgny.0)
@@ -186,6 +203,10 @@ const burak: Developer = {
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:050d1a,50:0a1628,100:050d1a&height=100&section=footer&fontSize=12&fontColor=546e8a&text=Thanks%20for%20visiting%20%E2%80%94%20let%27s%20build%20something%20great%20together&animation=fadeIn&fontAlignY=60"/>
+<svg width="860" height="80" viewBox="0 0 860 80" xmlns="http://www.w3.org/2000/svg">
+  <rect width="860" height="80" fill="#050d1a"/>
+  <text x="430" y="34" font-family="monospace" font-size="11" fill="#1a3a5c" text-anchor="middle">// thanks for visiting</text>
+  <text x="430" y="56" font-family="monospace" font-size="13" fill="#4fc3f7" text-anchor="middle">lets build something great together</text>
+</svg>
 
 </div>
