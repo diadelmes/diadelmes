@@ -1,38 +1,28 @@
-<div align="center">
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&pause=9999&color=4FC3F7&center=true&vCenter=true&width=600&height=70&lines=Burak+G%C3%BCnay" alt="Burak Günay" />
+</h1>
 
-<svg width="860" height="200" viewBox="0 0 860 200" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#050d1a"/>
-      <stop offset="50%" style="stop-color:#0a1628"/>
-      <stop offset="100%" style="stop-color:#050d1a"/>
-    </linearGradient>
-  </defs>
-  <rect width="860" height="200" fill="url(#bg)"/>
-  <text x="430" y="88" font-family="monospace" font-size="44" font-weight="bold" fill="#4fc3f7" text-anchor="middle" letter-spacing="2">Burak Gunay</text>
-  <text x="430" y="124" font-family="monospace" font-size="15" fill="#5eead4" text-anchor="middle">&lt; Full Stack Developer | Web Security Researcher /&gt;</text>
-  <text x="430" y="158" font-family="monospace" font-size="11" fill="#1a3a5c" text-anchor="middle">react . next.js . node.js . typescript . burp suite . kali linux</text>
-  <line x1="160" y1="108" x2="270" y2="108" stroke="#1a3a5c" stroke-width="0.8"/>
-  <line x1="590" y1="108" x2="700" y2="108" stroke="#1a3a5c" stroke-width="0.8"/>
-</svg>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&pause=1000&color=5EEAD4&center=true&vCenter=true&width=600&height=30&lines=%3C+Full+Stack+Developer+%7C+Security+Researcher+%2F%3E" alt="role" />
+</p>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1200&color=4FC3F7&center=true&vCenter=true&width=600&height=40&lines=_%20Full+Stack+Web+Developer+%F0%9F%9A%80;_%20Web+Security+%26+Pentest+Researcher+%F0%9F%94%90;_%20React+%7C+Next.js+%7C+TypeScript+%7C+Node.js;_%20Breaking+things+to+build+them+better+%F0%9F%94%93;_%20Turkey+%F0%9F%87%B9%F0%9F%87%B7+%7C+diadelmes.com)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&pause=1200&color=4FC3F7&center=true&vCenter=true&width=620&height=35&lines=_%20Full+Stack+Web+Developer+%F0%9F%9A%80;_%20Web+Security+%26+Pentest+Researcher+%F0%9F%94%90;_%20React+%7C+Next.js+%7C+TypeScript+%7C+Node.js;_%20Breaking+things+to+build+them+better+%F0%9F%94%93;_%20Turkey+%F0%9F%87%B9%F0%9F%87%B7+%7C+diadelmes.com" alt="Typing SVG" />
+</p>
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=diadelmes&style=flat-square&color=0d2137&label=profile+views&labelColor=050d1a)
-&nbsp;
-[![Twitter](https://img.shields.io/badge/@burakgny0-1a1a2e?style=flat-square&logo=twitter&logoColor=1DA1F2)](https://twitter.com/burakgny0)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a2e?style=flat-square&logo=linkedin&logoColor=0077B5)](https://linkedin.com/in/burakgny0)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/diadelmes.com-1a1a2e?style=flat-square&logo=firefox&logoColor=4fc3f7)](https://diadelmes.com)
-&nbsp;
-[![Email](https://img.shields.io/badge/email-1a1a2e?style=flat-square&logo=gmail&logoColor=D14836)](mailto:info@diadelmes.com)
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=diadelmes&style=flat-square&color=0d2137&label=profile+views&labelColor=050d1a" alt="Profile Views"/>
+  &nbsp;
+  <a href="https://twitter.com/burakgny0"><img src="https://img.shields.io/badge/@burakgny0-1a1a2e?style=flat-square&logo=twitter&logoColor=1DA1F2" alt="Twitter"/></a>
+  &nbsp;
+  <a href="https://linkedin.com/in/burakgny0"><img src="https://img.shields.io/badge/LinkedIn-1a1a2e?style=flat-square&logo=linkedin&logoColor=0077B5" alt="LinkedIn"/></a>
+  &nbsp;
+  <a href="https://diadelmes.com"><img src="https://img.shields.io/badge/diadelmes.com-1a1a2e?style=flat-square&logo=firefox&logoColor=4fc3f7" alt="Portfolio"/></a>
+  &nbsp;
+  <a href="mailto:info@diadelmes.com"><img src="https://img.shields.io/badge/email-1a1a2e?style=flat-square&logo=gmail&logoColor=D14836" alt="Email"/></a>
+</p>
 
 ---
 
@@ -189,24 +179,16 @@ const burak: Developer = {
 
 ## 🔗 Let's Connect
 
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌐_diadelmes.com-050d1a?style=for-the-badge)](https://diadelmes.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/burakgny0)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/burakgny0)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/burakgny.0)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@diadelmes.com)
-
-</div>
+<p align="center">
+  <a href="https://diadelmes.com"><img src="https://img.shields.io/badge/🌐_diadelmes.com-050d1a?style=for-the-badge" alt="Portfolio"/></a>
+  <a href="https://twitter.com/burakgny0"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://linkedin.com/in/burakgny0"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://instagram.com/burakgny.0"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="mailto:info@diadelmes.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 ---
 
-<div align="center">
-
-<svg width="860" height="80" viewBox="0 0 860 80" xmlns="http://www.w3.org/2000/svg">
-  <rect width="860" height="80" fill="#050d1a"/>
-  <text x="430" y="34" font-family="monospace" font-size="11" fill="#1a3a5c" text-anchor="middle">// thanks for visiting</text>
-  <text x="430" y="56" font-family="monospace" font-size="13" fill="#4fc3f7" text-anchor="middle">lets build something great together</text>
-</svg>
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=12&pause=9999&color=1a3a5c&center=true&vCenter=true&width=500&height=25&lines=Thanks+for+visiting+%E2%80%94+let%27s+build+something+great+together+%F0%9F%9A%80" alt="footer"/>
+</p>
